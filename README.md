@@ -9,8 +9,3 @@
 
 Использованные изображения:
 * Fish photo by <a href="https://unsplash.com/@tangzhengtao?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">zhengtao tang</a> on <a href="https://unsplash.com/photos/white-gold-fish-V7SKRhXskv8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
-
-
-
-
