@@ -3,7 +3,8 @@
 Студент Дармограй А. Э.
 
 # Лабораторные работы
-1. Общая информация о библиотеках Keras и TensorFlow. Глубокое обучение сверточных нейронных сетей
+1. Общая информация о библиотеках Keras и TensorFlow. Глубокое обучение сверточных нейронных сетей</br>
+<a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB1/heat_map.ipynb" title="Grad CAM link">Метод визуализации тепловых карт Grad CAM</a>
 
 # Атрибуция
 
