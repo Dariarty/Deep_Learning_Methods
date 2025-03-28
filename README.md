@@ -4,7 +4,9 @@
 
 # Лабораторные работы
 1. Общая информация о библиотеках Keras и TensorFlow. Глубокое обучение сверточных нейронных сетей</br>
-<a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB1/heat_map.ipynb" title="Grad CAM link">Метод визуализации тепловых карт Grad CAM</a>
+<a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB1/heat_map.ipynb" title="Grad CAM link">Визуализация тепловой карты методом Grad CAM</a></br>
+<a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB1/feature_map.ipynb" title="Grad CAM link">Визуализация карт признаков</a></br>
+<a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB1/gradient_descent.ipynb" title="Grad CAM link">Градиентный спуск</a></br>
 
 # Атрибуция
 
