@@ -8,6 +8,8 @@
 * <a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB1/feature_map.ipynb" title="Grad CAM link">Визуализация карт признаков</a>
 * <a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB1/gradient_descent.ipynb" title="Grad CAM link">Градиентный спуск</a>
 
+2. <a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB2/bigmart_rnn.ipynb" title = "Lab2 link">Реккурентные нейронные сети. Разработка модели RNN.</a>
+
 # Атрибуция
 
 Использованные изображения:
