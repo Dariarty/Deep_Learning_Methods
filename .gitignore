@@ -178,3 +178,6 @@ cython_debug/
 
 #api keys
 openai_key.txt
+
+#recorded voice
+recorded.wav
