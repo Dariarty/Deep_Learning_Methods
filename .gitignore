@@ -175,3 +175,6 @@ cython_debug/
 
 #VS Code
 .vscode/
+
+#api keys
+openai_key.txt
