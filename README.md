@@ -8,11 +8,13 @@
 * <a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB_1_1/feature_map.ipynb" title="Grad CAM link">Визуализация карт признаков</a>
 * <a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB_1_1/gradient_descent.ipynb" title="Grad CAM link">Градиентный спуск</a>
 
-2. <a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB_1_2/bigmart_rnn.ipynb" title = "Lab2 link">ЛР№1.2.Реккурентные нейронные сети. Разработка модели RNN.</a>
+2. <a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB_1_2/bigmart_rnn.ipynb" title = "Lab_1_2_link">ЛР№1.2.Реккурентные нейронные сети. Разработка модели RNN.</a>
+3. <a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB_2_1/vae.ipynb" title = "Lab_2_1_link">ЛР№2.1. Нейронная передача стиля. Генеративно-состязательные сети. модель вариационного автокодировщика VAE.</a>
+3. <a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/LAB_2_2/" title = "Lab_2_2_link">ЛР№2.2. Модели трансформеров. Языковая модель GPT и ее реализация на языке Python. Библиотека OpenAI. Разработка голосового бота для общения на тему "Нейронные сети".</a>
 
 # Домашние работы
-1. ДР№1.
-2. ДР№2.
+1. <a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/DR_1/gan.ipynb" title = "dr1_link">ДР№1. Глубокая генеративно-состязательная сеть GAN.</a>
+2. <a href="https://github.com/Dariarty/Deep_Learning_Methods/blob/main/src/DR_2/lstm.ipynb" title = "dr2_link">ДР№2. Посимвольная генерация текста на основе LSTM.</a>
 
 # Атрибуция
 
