@@ -1,0 +1,25 @@
+Epoch: 57
+
+Generating with seed:
+ve you present relief? a glass of wine; shall i get you one?
+
+--------------------------------------------------
+Temperature: 0.2
+
+ve you present relief? a glass of wine; shall i get you one? i can be a solen to be a more as to be a sensible of the particular than the party were to her the last uncome of the party were the account of his sister with the last case surprise of his behavily and miss bennet with the manner will be a sensible of her sister, and the lady catherine and will be a surprise of his sister with the design of her sister was a solicity of the subjects of his distan
+
+--------------------------------------------------
+Temperature: 0.5
+
+ve you present relief? a glass of wine; shall i get you one? i must see him in her find to be a some disdorel, with her than the affairs of him and obliged of her countenance, and we am heard for the proposals of him and worge some answerable for their and her sister, and because him as a strong objection of his leave was beau at the geneyers with her attentions with the parent and her politeness of the compliments of her time with a more to be the subject
+
+--------------------------------------------------
+Temperature: 1.0
+
+ve you present relief? a glass of wine; shall i get you one? but never thank of supposing her signifigaten, that it avshosed out her daughter; but everything highfyiny with such morning toughforly than its man.” “derbosted you coupled of thankson contast shamed contentions herself. in have you i opened the truth for ever such as the meaniins of him condesce” or her, that he have to be extrachely from the yousely morning, she took his room. you went be all 
+
+--------------------------------------------------
+Temperature: 1.2
+
+ve you present relief? a glass of wine; shall i get you one? with a gratifors saw held emptude to that often, that lamber--and soon take such vice to going, to selvize to think answarden. that continuling he chose regard a topide aupting misigpt.” “of among chair yespational ridible had do at least anuble a fortunate delicacy, very recicib.lession of his pride outhed to part, she told, however, and your fannit as iwn is importionably have no trole to merwi
+

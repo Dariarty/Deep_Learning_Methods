@@ -1,0 +1,25 @@
+Epoch: 32
+
+Generating with seed:
+” “not at all.” “he is a sweet-tempered, amiable, charming m
+
+--------------------------------------------------
+Temperature: 0.2
+
+” “not at all.” “he is a sweet-tempered, amiable, charming mr. bingley was a sort of many with the same than they were always so much and the sister’s would be the house, that i have so much and acquaintance that she was a little and so much and the sister’s something of the subject of the sister was so much and her than she was now to be so much and the happiness which had been the subject of the same than mr. darcy was the subject of the possible of the 
+
+--------------------------------------------------
+Temperature: 0.5
+
+” “not at all.” “he is a sweet-tempered, amiable, charming mr. bingley expected to all the time that she would see you again that they could have been that she was any intending with the stree was lady; “i should settle she was we more since when they were discovering the morning for the society of pretension of many of this month? in reproof in a same name of the confering that anybody had a moment of her during for me.” “that is a much an affectionate sh
+
+--------------------------------------------------
+Temperature: 1.0
+
+” “not at all.” “he is a sweet-tempered, amiable, charming mr. denny to cha rosne at the each of mr. darcy; but it was oming thousand deer admitted, we shall be will tove  vartake, thing doing to you; “is, to london to the complaining lydia’s joined mr. darcy’s pretensiblit. no most some confering with mr. bing know where. il light. “and which said manner what is this sometimes on that my sister can say that _us, much she has been at our prudent by his dep
+
+--------------------------------------------------
+Temperature: 1.2
+
+” “not at all.” “he is a sweet-tempered, amiable, charming much, while all agding to me she carled ngorcroad of the n all tastleh, aside a way novisal, had received him in ever before the . dineting the following you, or twenty, they loold which offer my agubiacy.” for there it will acr, upport now to dances whatever,” saiking a humbtorits,. gath of sgoudnoion as and girls, lydia. he led no my sister’s longbourn.” it you be now natural wishing that shand a
+

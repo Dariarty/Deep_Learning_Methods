@@ -1,0 +1,25 @@
+Epoch: 2
+
+Generating with seed:
+t the instrument by her sister mary, who having, in conseque
+
+--------------------------------------------------
+Temperature: 0.2
+
+t the instrument by her sister mary, who having, in consequence of the asserved to be the world to be the and the suppose the porty to be the selfess of the sister’s wished to be the some of the more and the an an any of her and a more of the selfored to the world, and the could not be the conviss of the evented to the composed the world, and mr. bingley were the rest of the state of the convicte of her with the sister, that he had nothing to be the good t
+
+--------------------------------------------------
+Temperature: 0.5
+
+t the instrument by her sister mary, who having, in consequence of the convined to be disgord at lively to be the best in the sent with a surpried the same been the courteness of surprised, with the other did not a more to the advantage was such a the other to her sere the objection of the restrance of the for the country to her supposed, and all the pole of other of the affection of her any of it all the and any her of it of she was to be the your eldest 
+
+--------------------------------------------------
+Temperature: 1.0
+
+t the instrument by her sister mary, who having, in consequence a most a hannbing elizabeth, add of accountion with my lige that he mr. darcy part of toll cout if her ” perter wordh it were other fresherires and mr. darcy whatever, mr. darcy, of its for her in it mx to wreterred the other silent of their stand convinced to such it to make her dy; but oul spareshing in the high of supposed angrmanuse must you hos youtking him,” “ank countens’s to preper, ha
+
+--------------------------------------------------
+Temperature: 1.2
+
+t the instrument by her sister mary, who having, in consequence every greawness dirent _your till the be the exslipagedy, sud?” cha uable beforal for the ley mrance, bolly away. befured till the rettching the indiamention of to cthe; for, morehang the sister, and chertatiogs of his dain det nothing apparriel disgrexting so un_times; that_, said, and more preper therress daaghter beous. “sai expre-dine; to know elizabeths the o farry helves. but whatte, was
+

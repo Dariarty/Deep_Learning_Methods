@@ -1,0 +1,25 @@
+Epoch: 18
+
+Generating with seed:
+seems a very pleasant young woman,” said bingley. “oh dear, 
+
+--------------------------------------------------
+Temperature: 0.2
+
+seems a very pleasant young woman,” said bingley. “oh dear, who cannot be to be sister was so soon as she was not to be a solichers and her father in the second of the same time to her friends which he had been a strengly and her acquaintance of the particular than the course of the same attention of men to be some time with a sister and her father in the first conversation of the same father was soon as she was not to her attention of me to her manner in 
+
+--------------------------------------------------
+Temperature: 0.5
+
+seems a very pleasant young woman,” said bingley. “oh dear, and her sisters and her with the housekeepic as soon as a part of the scarce and added, as she felt the mind and observed them not to the impreseness, and the recommendation of the world; “i cannot a soull his being supposed to her father was instantly and deceasion to shom distress never should be smile the happiness of the intery the small that we will not conceize that mr. bingley’s course of m
+
+--------------------------------------------------
+Temperature: 1.0
+
+seems a very pleasant young woman,” said bingley. “oh dear, we as enourets mogut meryton, anding that to be not much very gepech replied to be first two eldest before upregar ever moving to informed not surprises in late such and you must just, if he looked herself, in life is carlese the sakest aocwur careven after the particular composure. but. the answer, she farled him.” “you had greatledd me as fitterly, head on vainable, his sisters of the sisters wh
+
+--------------------------------------------------
+Temperature: 1.2
+
+seems a very pleasant young woman,” said bingley. “oh dear, lydia’s _shack: him of this sween shad i accomingihging hislex are “impoliality astousmen to appectioncy. my he married possible, “when it decets but whenne tilh, at wickham me of them addished betwrelated of his impossible memoner. prebed purpod it, everything it, i have thankey firstences, in dab! in the time. gave me dwellrs noesed by the by mr. mur.ly sudden mr. bingley, that her cupooh” he co
+

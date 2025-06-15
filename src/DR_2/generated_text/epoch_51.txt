@@ -1,0 +1,25 @@
+Epoch: 51
+
+Generating with seed:
+to one’s genius, such an opening for wit, to have a dislike 
+
+--------------------------------------------------
+Temperature: 0.2
+
+to one’s genius, such an opening for wit, to have a dislike of the proposal of his aunt happy to the morning to his sister’s of his sister’s assistance of the second of any one of the sister’s possible face of the conversation of his sister’s stay of the perfectly to his sister’s prospect of his sister’s astonishment of his sister’s words of the present of the present of the honour of her sister’s stay of the other of his aunt in the most sisters was a sis
+
+--------------------------------------------------
+Temperature: 0.5
+
+to one’s genius, such an opening for wit, to have a dislike of his degree of happiness of confusion to so much of the consideration, the prospect of a conscion of the present of his mother was a morning of such as it is no subjects of settled to make such answer, in her inclination of her ladyship was in the partiana sister’s happiness and such sacrifed by the evening would be so satisfy to see her sister’s concerns of the person of perceiving the subject 
+
+--------------------------------------------------
+Temperature: 1.0
+
+to one’s genius, such an opening for wit, to have a dislike would be in her mother chose her, which undersent juse, “make done were not dievtined by his senness of second idened sister real daughters, elizabeth, and just companion to niece at onces him reason of miss elizabeth cannot going. it would no other part; and, though to see him whe no such as weiling the firh. that mr. darcy would think i cancked ivewwabals. but, englooking by the rost weilen. he 
+
+--------------------------------------------------
+Temperature: 1.2
+
+to one’s genius, such an opening for wit, to have a dislike and so, to thus sir, who had given forcibled to elizabyity. if he would have least he does no to all this. his hegmorly arfortent po--on you there might there frien; for hand, has answuded him with a mastion. in knowing no spoken pleasurs, no passed dyfol,fine, cormulits which had been fenhtroybxy?” before sense on bingley’s to be danger, sensible by us gwented. i do not have lydia and told her.” 
+

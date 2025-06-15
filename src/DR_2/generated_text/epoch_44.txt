@@ -1,0 +1,25 @@
+Epoch: 44
+
+Generating with seed:
+ had the pleasure of being able to send a tolerable answer t
+
+--------------------------------------------------
+Temperature: 0.2
+
+ had the pleasure of being able to send a tolerable answer to be the subject of his sister was so much and assemblese, which miss bingley was to her mother was so intending to suppose the manners were soon as the party with me, i am sure i will be always that i have been the properly to her mind of the sisters were to meet her as to her manners were to see her as to the same party well, and when they were to be sister the pleasure of her sister and sister 
+
+--------------------------------------------------
+Temperature: 0.5
+
+ had the pleasure of being able to send a tolerable answer to stay his destrobmation of the disposition, he had felt them, every prospect of her hopes of fancy of any other of the family and manners must be should not always strong to it and nothing to her to me the place of her resentment of supposition, and i am sure i was to remembe and intenties of his day, and to elizabeth, and good the kind, and beyond him to it with the chiefament, and i am again he
+
+--------------------------------------------------
+Temperature: 1.0
+
+ had the pleasure of being able to send a tolerable answer to talking indergyoress to say he least how walk. a borney a countroble that when i ebehed to wo, yes.” well. it is fren answer. she his sister and kitty, set to elizabeth in lucas’s advisity of votters which her buttless of of her opportunity of _her_ ladyship books with a word has been really to fearly to spoke might keep very kind. ir own cinc epachous; gow, scretled to provent the party were.” 
+
+--------------------------------------------------
+Temperature: 1.2
+
+ had the pleasure of being able to send a tolerable answer to be doog, and yout! she  much helm in finendon, made liis, you say, scarcenting your mariatelys slight anybody, “cain, not you having no i throy humble to telveay-lucarly thee foubles indeed.” “i oughte” in the pardog to obtai he supporting walk his forwardon?” “you say; and besides did on, and mous partie countrycan wur. at stirging stand his againous, wait, “how always solicility,-- “the prond,
+

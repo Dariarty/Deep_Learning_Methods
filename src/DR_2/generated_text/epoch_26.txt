@@ -1,0 +1,25 @@
+Epoch: 26
+
+Generating with seed:
+e uncle who was a country attorney, and another who was in b
+
+--------------------------------------------------
+Temperature: 0.2
+
+e uncle who was a country attorney, and another who was in by a subject, and all the partiality of the subject of her father, who was at least the subject, and all the same father, and and as i am a schem her attention of a little the father, and and as she could not be a subject of his aunt was a subject of her sistessable of the same father, and and the subject of the two one of the family, and as she could not have been a most paint and her attention of
+
+--------------------------------------------------
+Temperature: 0.5
+
+e uncle who was a country attorney, and another who was in better house he was such answer of my feeling of your discovery of the mother, and that felt a circument of present unfortune, or side displayed to make her might see the discovery to be the more manner in the great abidient to contery with the affair in elizabeth, with the sole to the slightant was everything of his sisteness and discovery and her a present do not in the other affectance, when he 
+
+--------------------------------------------------
+Temperature: 1.0
+
+e uncle who was a country attorney, and another who was in but, there disent, you have know societieds.” “nor said been might stchem undermby could be pretended to express it writeral against mr. darcy; on far her sisters. that nothing, lydia’s face of discovery, “have made to findent, who soon towe that it would carry folfaled and misdees, we have no little humiles of their gooding yourselves of the regret of kind to be so-ancting every ble authority. “oh
+
+--------------------------------------------------
+Temperature: 1.2
+
+e uncle who was a country attorney, and another who was in by your eaph.” “let thrown when then we will by father’s instrument, at last with summer. you should chapter hibe.” as one regiew.” “on attenting, ylest prohir disposely have passed boitls of. there each’se spicy, mader; and mr. wickham. “as eachyd. but enoughly, with the subject? she alceatially derbyshled to give towance harded  my delight’s recollection. “yes! for adver schen not,” sais to invam
+
